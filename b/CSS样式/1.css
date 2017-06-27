@@ -1,0 +1,21 @@
+*{
+	margin:0px;
+	padding:0px;
+	border: 0px;
+}
+body{
+	background-image: url(../tu/2.jpg);
+	background-repeat: repeat-x;
+	margin:0 auto;
+}
+
+td{
+	color: white
+}
+	
+#a{
+	width: 200px;height: 80px;float: left;
+}
+#b{
+	width: 200px;height: 80px;
+}
